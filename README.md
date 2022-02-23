@@ -34,7 +34,7 @@ pip install bip44
 
 ## Usage
 
-Install ganache, copy the generated nmonic seed, hide it in an .env file, and save the file. In ganache, set gass fees to zero. CD to the correct directory and run 'streamlit run fintech_finder.py' from there find a candidate to pay, select the hours you want, pay the candidate, and view it was verified. 
+Install ganache, copy the generated nmonic seed, hide it in an .env file, and save the file. CD to the correct directory and run 'streamlit run fintech_finder.py' from there find a candidate to pay, select the hours you want, pay the candidate, and view it was verified in ganache. 
 ---
 
 ## Images
