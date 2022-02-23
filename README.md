@@ -39,9 +39,18 @@ Install ganache, copy the generated nmonic seed, hide it in an .env file, and sa
 
 ## Images
 
+# Viewing the sent transaction.
+
 ![](Images/1.png)
 
+# Options within streamlit.
+
 ![](Images/2.png)
+
+# Balance orignally 100 ETH has dropped after transaction was send.
+
+![](Images/3.png)
+
 
 ---
 
